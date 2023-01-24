@@ -1,3 +1,9 @@
+##########################
+# This script defines a list of popular nursery rhyme phrases and uses the random module to select a random number of 
+# phrases from the list and join them together to create the lyrics. 
+# The generate_lyrics() function returns the generated lyrics which can be printed or used in any other way you wish.
+##########################
+
 import random
 
 # List of popular nursery rhyme phrases

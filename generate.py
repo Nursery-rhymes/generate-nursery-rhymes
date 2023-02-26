@@ -7,13 +7,33 @@
 import random
 
 # List of popular nursery rhyme phrases
-phrases = [    "Mary had a little lamb"
+phrases = [
+     "Mary had a little lamb"
 ,    "Humpty Dumpty sat on a wall"
 ,    "Jack and Jill went up the hill"
 ,    "Rain, rain, go away"
 ,    "Twinkle, twinkle, little star"
 ,    "Itsy bitsy spider climbed up the water spout"
-,    "Rock-a-bye baby on the treetop",    "Mary, Mary, quite contrary",    "Jack be nimble, Jack be quick",    "Hickory, dickory, dock",    "Baa, baa black sheep, have you any wool?",    "Row, row, row your boat, gently down the stream",    "Little Bo Peep has lost her sheep",    "Old MacDonald had a farm, E-I-E-I-O",    "The wheels on the bus go round and round",    "London Bridge is falling down",    "Ring-a-round the rosie, a pocket full of posies",    "Three blind mice, see how they run",    "This little piggy went to market",    "Pop! Goes the weasel",    "Hey diddle diddle, the cat and the fiddle",    "Little Miss Muffet, sat on a tuffet",    "The itsy bitsy spider went up the spout again",    "Georgie Porgie, pudding and pie, kissed the girls and made them cry",    "Sing a song of sixpence, a pocket full of rye"]
+,    "Rock-a-bye baby on the treetop"
+,    "Mary, Mary, quite contrary"
+,    "Jack be nimble, Jack be quick"
+,    "Hickory, dickory, dock"
+,    "Baa, baa black sheep, have you any wool?"
+,    "Row, row, row your boat, gently down the stream"
+,    "Little Bo Peep has lost her sheep"
+,    "Old MacDonald had a farm, E-I-E-I-O"
+,    "The wheels on the bus go round and round"
+,    "London Bridge is falling down"
+,    "Ring-a-round the rosie, a pocket full of posies"
+,    "Three blind mice, see how they run"
+,    "This little piggy went to market"
+,    "Pop! Goes the weasel"
+,    "Hey diddle diddle, the cat and the fiddle"
+,    "Little Miss Muffet, sat on a tuffet"
+,    "The itsy bitsy spider went up the spout again"
+,    "Georgie Porgie, pudding and pie, kissed the girls and made them cry"
+,    "Sing a song of sixpence, a pocket full of rye"
+]
 
 
 # Generate random nursery rhyme lyrics
